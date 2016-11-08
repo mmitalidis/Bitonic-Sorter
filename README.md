@@ -1,4 +1,7 @@
-Bitonic-Sorter contains 4 implementations of the bitonic sort algorithm. They are parallel implementations of the algorithm with
+# Bitonic-Sorter
+
+Bitonic-Sorter contains 4 implementations of the bitonic sort algorithm. They are parallel implementations of the algorithm with:
+
 1. pthreads
 2. pthreads with qsort for small arrays
 3. openMP
